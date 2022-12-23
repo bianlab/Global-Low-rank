@@ -5,7 +5,7 @@
 ## [1] Environments
 
         1. Matlab 2019b or above (Windows 10)
-        2. MatConvNet
+        2. MatConvNet-1.0-beta25
   
 ## [2] Test  
     

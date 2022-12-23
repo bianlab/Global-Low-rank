@@ -4,8 +4,8 @@
 
 ## [1] Environments
 
-        1.Matlab 2019b or above
-        2.MatConvNet
+        1. Matlab 2019b or above (Windows 10)
+        2. MatConvNet
   
 ## [2] Test  
     

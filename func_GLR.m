@@ -9,5 +9,6 @@ par.y      = m;
 par.ori_im = orig; 
 rec_im0    = double(rec_im0);
 % [2] apply GLR for reconstruction
+fprintf('GLR start ...')
 [vours,PSNR,SSIM]      =   GLR_Reconstruction( par, 255.*rec_im0); 
 end
